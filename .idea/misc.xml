@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/activity_detail_top_rated.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/activity_detail_upcoming.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/activity_top_rated.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/activity_upcoming.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/fragment_top_rated_movie.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/fragment_top_rated_movies_list.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/fragment_upcoming_movie.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/baokh/AndroidStudioProjects/Project4FlixsterPart2/app/src/main/res/layout/fragment_upcoming_movies_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

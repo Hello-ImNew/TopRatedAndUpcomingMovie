@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Top Rated And Upcoming Movie</string>
+    <string name="TopRatedLabel">List of Top Rated Movie</string>
+    <string name="UpcomingLabel">List of Upcoming Movie</string>
+</resources>
